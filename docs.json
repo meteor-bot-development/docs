@@ -3,9 +3,9 @@
   "theme": "luma",
   "name": "Smorii Bot Documentation",
   "colors": {
-    "primary": "#FEEAA1",
-    "light": "#FEEAA1",
-    "dark": "#FEEAA1"
+    "primary": "#2400B5",
+    "light": "#2400B5",
+    "dark": "#2400B5"
   },
   "navigation": {
     "tabs": [
@@ -28,7 +28,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://meteorbot.xyz/app"
     }
   },
   "appearance": {
@@ -36,12 +36,12 @@
     "strict": false
   },
   "favicon": {
-    "light": "/images/OfficialLogo.png",
-    "dark": "/images/OfficialLogo.png"
+    "light": "/images/meteor_logo_no_background.png",
+    "dark": "/images/meteor_logo_no_background.png"
   },
   "logo": {
-    "light": "/images/OfficialLogo.png",
-    "dark": "/images/OfficialLogo.png",
-    "href": "https://smoriibot.xyz"
+    "light": "/images/meteor_logo_no_background.png",
+    "dark": "/images/meteor_logo_no_background.png",
+    "href": "https://meteorbot.xyz"
   }
 }
