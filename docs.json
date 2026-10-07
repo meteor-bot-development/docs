@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "luma",
-  "name": "Smorii Bot Documentation",
+  "name": "Meteor Bot Documentation",
   "colors": {
-    "primary": "#2400B5",
-    "light": "#2400B5",
-    "dark": "#2400B5"
+    "primary": "#4167FF",
+    "light": "#4167FF",
+    "dark": "#4167FF"
   },
   "navigation": {
     "tabs": [
@@ -43,5 +43,8 @@
     "light": "/images/meteor_logo_no_background.png",
     "dark": "/images/meteor_logo_no_background.png",
     "href": "https://meteorbot.xyz"
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
